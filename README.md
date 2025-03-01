@@ -22,5 +22,5 @@ Drum Kit is a fun and interactive web-based drum simulator that lets users play 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Drum-Kit.git
+   git clone git@github.com:fafajer08/Drum-kit.git
    cd Drum-Kit
