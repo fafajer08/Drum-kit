@@ -14,7 +14,7 @@ Drum Kit is a fun and interactive web-based drum simulator that lets users play 
 ---
 
 ## 🚀 Live Demo
-🔗 [Play the Drum Kit Online](https://your-live-demo-link.com) *(Replace with your GitHub Pages/Netlify link)*  
+🔗 (https://fafajer08.github.io/Drum-kit/)
 
 ---
 
